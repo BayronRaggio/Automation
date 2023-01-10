@@ -17,8 +17,14 @@
  CP-00-04 (Filtrar)
  CP-00-05 (Eliminar)
 
- Las pruebas fueron ejecutadas directamente con el IDE Eclipse, la automatización se genera al hacer clic derecho en el caso de prueba y clic en Run As - Java Aplication
+# Ejecutar las pruebas automatizadas
 
+ Para asegurar el correcto funcionamiento, descargue la versión de chromeDriver de acuerdo a la versión de su navegador.
+ 
+ Asegurese de cambiar la ruta de la ubicación del chromeDriver en cada caso de prueba. 
+
+ Las pruebas fueron ejecutadas directamente con el IDE Eclipse, la automatización se genera al hacer clic derecho en el caso de prueba y clic en Run As - Java Aplication
+ 
 # Enlace a los casos de prueba
 https://docs.google.com/spreadsheets/d/1uBpyRkIFUUmWObJQHH_kWq7UiDMTpn8_YKaYBIpPZvw/edit?usp=sharing
 
