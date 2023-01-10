@@ -17,4 +17,4 @@ QA Automation
 # CP-00-04 (Filtrar)
 # CP-00-05 (Eliminar)
 
-# Las pruebas fueron ejecutadas directamente con el IDE Eclipse, la automatización se genera al hacer clic derecho en el caso de prueba y clic en Run As - Java Aplication
+ Las pruebas fueron ejecutadas directamente con el IDE Eclipse, la automatización se genera al hacer clic derecho en el caso de prueba y clic en Run As - Java Aplication
