@@ -18,3 +18,7 @@
  CP-00-05 (Eliminar)
 
  Las pruebas fueron ejecutadas directamente con el IDE Eclipse, la automatización se genera al hacer clic derecho en el caso de prueba y clic en Run As - Java Aplication
+
+# Enlace a los casos de prueba
+https://docs.google.com/spreadsheets/d/1uBpyRkIFUUmWObJQHH_kWq7UiDMTpn8_YKaYBIpPZvw/edit?usp=sharing
+
